@@ -1,0 +1,74 @@
+h1{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #23395d;
+}
+body{
+    background-color: #E8E6D9;
+}
+p{
+    font-size: 25px;
+}
+.data{
+    float: right;
+    box-shadow: 2px 2px 8px black;
+}
+a{
+    text-decoration: none ;
+    color: black;
+    float:right;
+}
+.list{
+    font-size: 25px;
+}
+#src{
+    float: right;
+}
+/* styles.css */
+
+/* Header */
+.prth{
+    
+    padding: 10px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:hotpink;
+    background-color: black; 
+  
+  }
+  
+  /* Navigation */
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    overflow: hidden;
+    
+  }
+  
+  nav ul li {
+    float: left;
+    
+    
+  }
+  
+  nav ul li a {
+    display: inline;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    
+    
+    
+    
+  }
+  
+  nav ul li a:hover {
+    color: rgb(230, 146, 205);
+    
+  }
+  #sql{
+    float: right;
+  }

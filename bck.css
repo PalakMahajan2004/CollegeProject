@@ -1,0 +1,92 @@
+h1{
+    font-size: 40px;
+    color: #013A63;
+    font-family: 'Times New Roman', Times, serif;
+}
+#container{
+    font-size: 25px;
+}
+body{
+    color: black;
+    background-color: #E6EDF3;
+}
+.plku{
+    float: right;
+    box-shadow: 3px 3px 8px black;
+}
+#palak{
+    float: right;
+    box-shadow: 2px 2px 10px black;
+}
+.eng{
+    box-shadow: 3px 3px 8px black;
+    transition: 2s;
+}
+.soft{
+    box-shadow: 3px 3px 8px black;
+    float:right;
+}
+#back{
+    width: 800px;
+    height: 400px;
+    
+}
+a{
+    text-decoration: none;
+    color: blanchedalmond;
+    float: right;
+}
+.step{
+    font-size: 25px;
+}
+.skills{
+    font-size: 25px;
+}
+#src{
+    float: right;
+}
+
+/* styles.css */
+
+/* Header */
+header {
+    
+    padding: 10px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:hotpink; 
+    background-color: black;
+    
+  }
+  
+  /* Navigation */
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    overflow: hidden;
+    
+  }
+  
+  nav ul li {
+    float: left;
+    
+    
+  }
+  
+  nav ul li a {
+    display: inline;
+    color: white;
+    text-align: center;
+    padding: 8px ;
+    text-decoration: none;
+    
+    
+    
+  }
+  
+  nav ul li a:hover {
+    color: rgb(230, 146, 205);
+    
+  }

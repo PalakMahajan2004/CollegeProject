@@ -1,0 +1,32 @@
+h1{
+    color: blueviolet;
+    font-weight: 700;
+    font-size: 30px;
+    font-family: fantasy;
+    text-decoration:pink underline;
+    
+}
+p{
+    font-size: 40px;
+    background-color:pink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+body{
+    background-color:darkgrey;
+
+}
+h2{
+    color: blueviolet;
+    font-family: fantasy;
+    text-decoration:pink underline;
+
+}
+a{
+  text-decoration: none;
+}
+h4{
+    color:blue;
+    font-size: 30px;
+    font-family: fantasy;
+}

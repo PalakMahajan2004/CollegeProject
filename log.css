@@ -1,0 +1,48 @@
+h1{
+    color: #3b5998;
+    text-align: center;
+}
+
+#pass{
+    width:170px;
+}
+#owl{
+    background-color: #3b5998 ;
+    color: white;
+    width:170px;
+}
+p{
+ color: #3265d3;
+}
+
+
+
+div{
+    background-color: white;
+}
+a:hover{
+text-decoration: underline;
+}
+a{
+    text-decoration: none;
+}
+*{
+   text-align: center;
+    font-family: inherit;
+   
+   
+}
+#owl:hover{
+    background-color:rgba(45, 191, 89, 0.489)
+}
+
+
+#type{
+
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 1px;
+    background-color: #fff;
+    width: 200px;
+    height:220px;
+    margin: 4vh 640px;
+}

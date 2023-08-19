@@ -1,0 +1,112 @@
+  
+h1{
+    font-size: 50px;
+    color:#3B3131;
+    padding: 2px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 800;
+    text-decoration: wavy;
+   
+}
+.clss{
+    font-size: 25px;
+   
+   
+}
+#p{
+    font-size: 25px;
+}
+body{
+    background-color: #F9EBDF;
+    
+}
+.ok{
+    float:right;
+    
+}
+.bro{
+    float:right;
+}
+#frame{
+    float: right;
+}
+    h1:hover{
+        color: rgb(21, 26, 26);
+    }
+    a{
+        text-decoration: underline;
+        color: rgb(50, 77, 143);
+        font-size: 20px;
+    
+    }
+    .home{
+     float: left;
+     margin-top: -90px;
+    }
+    .id{
+        float:left;
+        font-size: 25px;
+        color: blue;
+    }
+
+    /* styles.css */
+
+/* Header */
+header {
+    
+    padding: 5px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:hotpink; 
+    background-color: black;
+    
+    
+  }
+  
+  /* Navigation */
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    overflow: hidden;
+    
+  }
+  
+  nav ul li {
+    float: left;
+    
+    
+  }
+  
+  nav ul li a {
+    display: inline;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    
+    
+    
+  }
+  
+  nav ul li a:hover {
+    color: rgb(230, 146, 205);
+    
+  }
+  #css{
+    font-size: 25px;
+  }
+  
+  .h3{
+    font-size: 25px;
+
+  }
+  .html{
+    font-size: 25px;
+    color:  rgb(50, 77, 143);
+
+  }
+  .p{
+    color:  rgb(50, 77, 143);
+  }
